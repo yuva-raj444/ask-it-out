@@ -9,7 +9,7 @@ create table if not exists rooms (
   code text unique not null,
   name text not null,
   created_at timestamptz default now(),
-  expires_at timestamptz default (now() + interval '24 hours')
+  expires_at timestamptz default (now() + interval '2 hours')
 );
 
 -- Members table
