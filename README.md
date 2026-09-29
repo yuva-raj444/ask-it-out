@@ -1,16 +1,1 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
+Ask It Out is a fun, room-based anonymous social app for college students. Create a room, share the QR code, let friends join, and send anonymous thoughts to anyone in the room. Recipients can see what others think about them without knowing the sender's name, while the sender's gender can be shown.
